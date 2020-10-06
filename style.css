@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    background-color: rgb(64, 230, 64);
+    color: wheat;
+}
+
+#allful{
+    position: absolute;
+margin-top: 8em;
+}
+
+#message{
+    position: absolute;
+    top: 11em;
+    left: 3em;
+}
+
+.btn-primary{
+    position: absolute;
+    top: 10.8em;
+    right: 2.5em;
+}
+
+.hy{
+    position: absolute;
+    top: 13em;
+    text-align: center;
+
+}
