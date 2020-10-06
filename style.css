@@ -1,7 +1,7 @@
 *{
     text-align: center;
     background-color: rgb(64, 230, 64);
-    color: wheat;
+    color: white;
 }
 
 #allful{
@@ -25,5 +25,5 @@ margin-top: 8em;
     position: absolute;
     top: 13em;
     text-align: center;
-
+font-weight: 750;
 }
